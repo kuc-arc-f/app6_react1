@@ -14,6 +14,7 @@ React.js + node/express sample
 ***
 ### more
 
+https://knaka0209.hatenablog.com/entry/react_express_1
 
 ***
 
